@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3026177261",
+    "project_id": "sistem-login-1cb5f",
+    "storage_bucket": "sistem-login-1cb5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3026177261:android:c7913de441c929159890e4",
+        "android_client_info": {
+          "package_name": "br.com.up.sistem_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3026177261-gqgi2gcc3dk3abo172u4bs2m525hrlkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFXsUedHMxv7MHiMQTGvcFnwaCy4k6IvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3026177261-gqgi2gcc3dk3abo172u4bs2m525hrlkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
